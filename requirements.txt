@@ -94,7 +94,6 @@ pyOpenSSL==23.3.0
 pyotp==2.9.0
 pyparsing==3.1.1
 pyperclip==1.8.2
-pypiwin32==223
 pyplink==1.3.6
 PyRect==0.2.0
 PyScreeze==0.1.30
